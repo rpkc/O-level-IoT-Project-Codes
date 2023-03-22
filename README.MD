@@ -43,4 +43,55 @@
 </tr>
 
 
+<tr>
+<td>4</td>
+<td> Write a program to interface buzzer with Arduino board to buzz on/off with the delay of 1sec.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Write a program to interface LED and Buzzer with Arduino board, so that buzzer is put on henever LED is on and Buzzer is put off when LED is off</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Write a program to interface Button and LED, so that LED blinks/glow when button is pressed.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td> Write a program to interface Button, buzzer and LED, whenever the button is pressed the buzzer gives beep for 100ms and LED status is toggled.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>8</td>
+<td> Write a program to interface LEDs at pins 10,11,12,13 and buttons at pins 7,8. When first time button at pin 7(increment button) is pressed first LED at pin 10 is switched on, when second time button is pressed the next LED at 11 is switched on. Similarly, when the button at pin 8 (decrement button) is pressed the LEDs are switched off sequentially.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>9</td>
+<td> Write a program to interface LEDs at pins 10,11,12,13 and button at pins 7. The press of button changes the pattern of LED glow. (considering four patterns of LED glow)</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Write a program to interface Light Dependent Resistor (LDR) and display the values read on the Serial monitor after delay of 2 seconds each.</td>
+<td></td>
+<td></td>
+</tr>
+
+
+
 </table>
