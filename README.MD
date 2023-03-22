@@ -1,4 +1,4 @@
-# Table of Content
+# Table of Contents
 
 <table>
 <tr><b><td>Sl No.</td><td>Name of Experiment</td><td>Code Link</td><td>Diagram</td></b></tr>
