@@ -20,6 +20,7 @@
 <tr>
 <td>3</td>
 <td>Write a program to run pattern(s) on LEDs connect at pins 10,11,12,13. <br>Pattern example : 
+    <center>
     <table>
     <tr>
     <td>
@@ -35,6 +36,7 @@
     </td>
     </tr>
     </table>
+    </center>
 </td>
 <td></td>
 <td></td>
