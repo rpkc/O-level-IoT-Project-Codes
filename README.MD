@@ -13,8 +13,8 @@
 <tr>
 <td>2</td>
 <td>Write a program to interface LEDs on pin no. 10,11,12,13 and blink alternatively at the delay of 1 sec.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/2/2.ino">Click Here</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/2/2.png">Click Here</a></td>
 </tr>
 
 <tr>
