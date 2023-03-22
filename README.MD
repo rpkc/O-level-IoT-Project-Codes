@@ -1,7 +1,7 @@
 # Table of Contents
 
 <table>
-<tr><b><td>Sl No.</td><td>Name of Experiment</td><td>Code</td><td>Diagram</td></b></tr>
+<tr><b><td>No.</td><td>Name of Experiment</td><td>Code</td><td>Diagram</td></b></tr>
 
 <tr>
 <td>1</td>
