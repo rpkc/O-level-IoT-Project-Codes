@@ -46,8 +46,8 @@
 <tr>
 <td>4</td>
 <td> Write a program to interface buzzer with Arduino board to buzz on/off with the delay of 1sec.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/4/4.ino">Click Here</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/4/4.png">Click Here</a></td>
 </tr>
 
 <tr>
