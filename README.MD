@@ -53,8 +53,8 @@
 <tr>
 <td>5</td>
 <td>Write a program to interface LED and Buzzer with Arduino board, so that buzzer is put on henever LED is on and Buzzer is put off when LED is off</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/5/5.ino">Click Here</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/5/5.png">Click Here</a></td>
 </tr>
 
 <tr>
