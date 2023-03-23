@@ -92,6 +92,118 @@
 <td></td>
 </tr>
 
+<tr>
+<td>11</td>
+<td>. Write a program to interface Light Dependent Resistor (LDR) and LED with Arduino board. Whenever there is sufficient light falls on LDR the LED is off and when there is dark around LDR the LED is put on.</td>
+<td></td>
+<td></td>
+</tr>
 
+<tr>
+<td>12</td>
+<td> Write a program to interface LEDs at any two PWM pins and exhibit LED fading.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>13</td>
+<td> Write a program to interface LED at PWM pin and LDR, in such a way that when the light intensity falling on LDR rises the LED glow should be reduced and after a threshold value the LED should be put off. (representing smart street light concept)</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>14</td>
+<td> Write a program to interface LEDs at any two PWM pins and button, to exhibit LED fading at the click of button.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>15</td>
+<td> Write a program to interface any analog (pollution) sensor and display the values read on Serial monitor.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>16</td>
+<td> Write a program to interface LCD with Arduino board and display ‘Hello world’ on it .</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>17</td>
+<td> Write a program to interface keypad with Arduino board and display the key pressed  on Serial monitor.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>18</td>
+<td> Write a program to interface LCD and keypad with Arduino board and display the key pressed from keypad on LCD.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>19</td>
+<td>Write a program to interface LCD and keypad (4 X 4) , to exhibit the functionality of a basic calculator.
+<table>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+<tr><td>9</td><td>0</td><td>+</td><td>-</td></tr>
+<tr><td>/</td><td>*</td><td>Clear</td><td>Enter</td></tr>
+</table>
+
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>20</td>
+<td> Write a program using LCD, LEDs, Buzzer and keypad to simulate a password based security lock system. User enters 4-digit password and if the password is correct buzzer and Green LED is put on. But if the password is incorrect Red LED is put on. After three incorrect attempts Red LED along with buzzer blinks continuously.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>21</td>
+<td>Write a program to interface LCD and DHT11, displaying the value read from sensor DHT on LCD.</td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td>22</td>
+<td> Write a program to interface DHT11 or any other temperature sensor, DC Motor, to exhibit a real life situation that whenever temperature rises above a threshold value the DC motor(representing fan) starts and when temperature falls below a value, the motor stops.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>23</td>
+<td> Write a program to interface LCD and Bluetooth module, to exhibit the values received from mobile handset via Bluetooth on LCD.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>24</td>
+<td> Write a program to interface LED and Bluetooth module, to switch on the LED if 1 is passed through Bluetooth and switch off the LED if 0 is send.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>25</td>
+<td>Write a program to interface Relay and Bluetooth module to switch on AC load (5W LED bulb, table lamp, etc) connected to relay if 1 is passed through Bluetooth and switch off the AC Load if 0 is send.</td>
+<td></td>
+<td></td>
+</tr>
 
 </table>
