@@ -1,7 +1,7 @@
 # Table of Contents
 
 <table>
-<th><strong><td>No.</td><td>Name of Experiment</td><td>Code</td><td>Diagram</td></strong></th>
+<tr><td>No.</td><td>Name of Experiment</td><td>Code</td><td>Diagram</td></tr>
 
 <tr>
 <td>1</td>
@@ -151,12 +151,12 @@
 <tr>
 <td>19</td>
 <td>Write a program to interface LCD and keypad (4 X 4) , to exhibit the functionality of a basic calculator.
-<table>
+<!-- <table>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
 <tr><td>9</td><td>0</td><td>+</td><td>-</td></tr>
 <tr><td>/</td><td>*</td><td>Clear</td><td>Enter</td></tr>
-</table>
+</table> -->
 
 </td>
 <td></td>
