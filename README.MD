@@ -102,8 +102,8 @@
 <tr>
 <td>12</td>
 <td> Write a program to interface LEDs at any two PWM pins and exhibit LED fading.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/12/12.ino">Click Here</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/12/12.png">Click Here</a></td>
 </tr>
 
 <tr>
