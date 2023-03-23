@@ -31,7 +31,7 @@ void loop() {
     delay(100);
     digitalWrite(buzzerPin, LOW);
     
-    ledStatus=!ledStatus;
+    ledStatus=!ledStatus; // Toggle current LED status
   } 
 }
 
