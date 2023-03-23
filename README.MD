@@ -60,8 +60,8 @@
 <tr>
 <td>6</td>
 <td>Write a program to interface Button and LED, so that LED blinks/glow when button is pressed.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/6/6.ino">Click Here</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/6/6.png">Click Here</a></td>
 </tr>
 
 <tr>
