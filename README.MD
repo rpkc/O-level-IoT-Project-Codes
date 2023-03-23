@@ -1,7 +1,7 @@
 # Table of Contents
 
 <table>
-<tr><td>No.</td><td>Name of Experiment</td><td>Code</td><td>Diagram</td></tr>
+<tr><td>No.</td><td>Topic</td><td>Code</td><td>Diagram</td></tr>
 
 <tr>
 <td>1</td>
@@ -94,7 +94,7 @@
 
 <tr>
 <td>11</td>
-<td>. Write a program to interface Light Dependent Resistor (LDR) and LED with Arduino board. Whenever there is sufficient light falls on LDR the LED is off and when there is dark around LDR the LED is put on.</td>
+<td>Write a program to interface Light Dependent Resistor (LDR) and LED with Arduino board. Whenever there is sufficient light falls on LDR the LED is off and when there is dark around LDR the LED is put on.</td>
 <td></td>
 <td></td>
 </tr>
@@ -129,9 +129,9 @@
 
 <tr>
 <td>16</td>
-<td> Write a program to interface LCD with Arduino board and display ‘Hello world’ on it .</td>
-<td></td>
-<td></td>
+<td> Write a program to interface LCD with Arduino board and display ‘Hello world’ on it</td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/16/16.ino">Click Here</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/16/16.png">Click Here</a></td>
 </tr>
 
 <tr>
