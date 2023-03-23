@@ -67,8 +67,8 @@
 <tr>
 <td>7</td>
 <td> Write a program to interface Button, buzzer and LED, whenever the button is pressed the buzzer gives beep for 100ms and LED status is toggled.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/7/7.ino">Click Here</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/7/7.png">Click Here</a></td>
 </tr>
 
 <tr>
