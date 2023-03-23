@@ -74,8 +74,8 @@
 <tr>
 <td>8</td>
 <td> Write a program to interface LEDs at pins 10,11,12,13 and buttons at pins 7,8. When first time button at pin 7(increment button) is pressed first LED at pin 10 is switched on, when second time button is pressed the next LED at 11 is switched on. Similarly, when the button at pin 8 (decrement button) is pressed the LEDs are switched off sequentially.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/8/8.ino">Click Here</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/8/8.png">Click Here</a></td>
 </tr>
 
 <tr>
