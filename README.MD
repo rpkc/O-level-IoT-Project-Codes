@@ -109,8 +109,8 @@
 <tr>
 <td>13</td>
 <td> Write a program to interface LED at PWM pin and LDR, in such a way that when the light intensity falling on LDR rises the LED glow should be reduced and after a threshold value the LED should be put off. (representing smart street light concept)</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/13/13.ino">Open</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/13/13.png">Open</a></td>
 </tr>
 
 <tr>
