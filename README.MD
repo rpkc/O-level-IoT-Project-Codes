@@ -95,8 +95,8 @@
 <tr>
 <td>11</td>
 <td>Write a program to interface Light Dependent Resistor (LDR) and LED with Arduino board. Whenever there is sufficient light falls on LDR the LED is off and when there is dark around LDR the LED is put on.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/11/11.ino">Open</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/11/11.png">Open</a></td>
 </tr>
 
 <tr>
