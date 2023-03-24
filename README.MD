@@ -88,8 +88,8 @@
 <tr>
 <td>10</td>
 <td>Write a program to interface Light Dependent Resistor (LDR) and display the values read on the Serial monitor after delay of 2 seconds each.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/10/10.ino">Open</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/10/10.png">Open</a></td>
 </tr>
 
 <tr>
