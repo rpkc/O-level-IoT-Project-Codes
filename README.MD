@@ -137,8 +137,8 @@
 <tr>
 <td>17</td>
 <td> Write a program to interface keypad with Arduino board and display the key pressed  on Serial monitor.</td>
-<td></td>
-<td></td>
+<td><a href="https://github.com/rpkc/O-level-IoT-Project-Codes/blob/main/17/17.ino">Open</a></td>
+<td><a href="https://raw.githubusercontent.com/rpkc/O-level-IoT-Project-Codes/main/17/17.png">Open</a></td>
 </tr>
 
 <tr>
